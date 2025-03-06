@@ -31,6 +31,7 @@
             color: white;
             text-decoration: none;
             display: block;
+            text-align: right;
         }
 
         .navbar-item a:hover {
