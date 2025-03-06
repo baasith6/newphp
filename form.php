@@ -22,7 +22,7 @@
 
         if ($UNAME=="admin" && $Password=="admin") {
             echo "Login Success";
-            # code...
+            
         }else{
             echo "Login Failed";
         }

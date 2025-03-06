@@ -7,6 +7,8 @@
 </head>
 <body>
     <?php
+    //include is used to include the file also (include_once and require and require_once) is used to include the file
+    include "navbar.php";
     echo" Hi Start Learning PHP";
     //creating a variable
     $name="Baasith";

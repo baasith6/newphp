@@ -7,6 +7,7 @@
 </head>
 <body>
 <?php
+    require "navbar.php";
     echo" Hi Start Learning fuking PHP";
     echo" Hi Start Learning fuking PHP";
 
